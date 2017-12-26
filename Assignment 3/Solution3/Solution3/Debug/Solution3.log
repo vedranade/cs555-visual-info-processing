@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(25): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(51): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(52): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(53): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'msvrtd.lib'
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(638,5): error MSB6006: "link.exe" exited with code 1104.

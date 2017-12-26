@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(61): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(191): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(194): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(233): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(236): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(237): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(207): warning C4101: 'a': unreferenced local variable
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(207): warning C4101: 'b': unreferenced local variable
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(220): warning C4101: 'numeratorX': unreferenced local variable
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(207): warning C4101: 'numerator': unreferenced local variable
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(220): warning C4101: 'numeratorY': unreferenced local variable
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(274): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(287): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(296): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(302): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(325): warning C4101: 'ch': unreferenced local variable
+c:\users\ved_r\documents\visual studio 2015\projects\solution3\solution3\source.cpp(324): warning C4101: 'temp': unreferenced local variable
+  Solution3.vcxproj -> C:\Users\ved_r\documents\visual studio 2015\Projects\Solution3\x64\Debug\Solution3.exe
+  Solution3.vcxproj -> C:\Users\ved_r\documents\visual studio 2015\Projects\Solution3\x64\Debug\Solution3.pdb (Full PDB)
