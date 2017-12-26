@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\ved_r\documents\visual studio 2015\projects\solution2\solution2\source.cpp(37): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution2\solution2\source.cpp(112): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution2\solution2\source.cpp(129): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution2\solution2\source.cpp(106): warning C4101: 'sum': unreferenced local variable
+c:\users\ved_r\documents\visual studio 2015\projects\solution2\solution2\source.cpp(152): warning C4215: nonstandard extension used: long float
+c:\users\ved_r\documents\visual studio 2015\projects\solution2\solution2\source.cpp(161): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution2\solution2\source.cpp(162): warning C4215: nonstandard extension used: long float
+c:\users\ved_r\documents\visual studio 2015\projects\solution2\solution2\source.cpp(165): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution2\solution2\source.cpp(176): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution2\solution2\source.cpp(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Solution2.vcxproj -> C:\Users\ved_r\documents\visual studio 2015\Projects\Solution2\x64\Debug\Solution2.exe
+  Solution2.vcxproj -> C:\Users\ved_r\documents\visual studio 2015\Projects\Solution2\x64\Debug\Solution2.pdb (Full PDB)
