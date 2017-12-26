@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ved_r\documents\visual studio 2015\projects\solution1.1\solution1.1\source.cpp(61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution1.1\solution1.1\source.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ved_r\documents\visual studio 2015\projects\solution1.1\solution1.1\source.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Solution1.1.vcxproj -> C:\Users\ved_r\documents\visual studio 2015\Projects\Solution1.1\x64\Debug\Solution1.1.exe
+  Solution1.1.vcxproj -> C:\Users\ved_r\documents\visual studio 2015\Projects\Solution1.1\x64\Debug\Solution1.1.pdb (Full PDB)

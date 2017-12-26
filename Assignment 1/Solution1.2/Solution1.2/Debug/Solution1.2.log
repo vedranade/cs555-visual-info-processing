@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ved_r\documents\visual studio 2015\projects\solution1.2\solution1.2\source.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'msvrtd.lib'
